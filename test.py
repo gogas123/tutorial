@@ -1,1 +1,2 @@
-print("sex")
+print("ses")
+print("gender")
